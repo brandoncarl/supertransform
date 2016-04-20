@@ -1,6 +1,6 @@
 {
   "name": "supertransform",
-  "version": "0.1.3",
+  "version": "0.2.0",
   "description": "Universal transform for browserify",
   "main": "index.js",
   "scripts": {
