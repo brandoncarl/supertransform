@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/brandoncarl/supertransform#readme",
   "dependencies": {
-    "pipemaker": "^0.3.8",
+    "pipemaker": "^0.5.0",
     "through2": "^2.0.1"
   }
 }
